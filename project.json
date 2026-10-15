@@ -1,6 +1,22 @@
 {
-  "slug": "x-osint-intelligence",
-  "url": "https://x-osint-intelligence-coti.arcada.app/",
-  "title": "X OSINT Intelligence",
-  "desc": "أداة استخبارات OSINT لمنصة X (Twitter)."
+  "name": "x-osint-intelligence",
+  "title": "X-OSINT — منصة استخبارات X.com",
+  "category": "OSINT",
+  "description": "منصة استخبارات متقدمة للتحليل العميق لحسابات X.com. بواسطة ابونواف.",
+  "liveUrl": "https://x-osint-intelligence-coti.arcada.app",
+  "aliases": [],
+  "sourceLinks": [
+    "https://www.designarena.ai/chat/230bf348-7c9d-44f9-93ae-5ecfc0b094e9"
+  ],
+  "originalTitle": "X-OSINT | ابونواف Intelligence Platform",
+  "originalDescription": "Advanced OSINT intelligence platform for deep X.com account analysis. By AbuNawaf.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "logo.jpg",
+    "assets/index-CffsjeGi.js",
+    "assets/index-CnzcnQRN.css",
+    "abunawaf-logo.jpg"
+  ]
 }
