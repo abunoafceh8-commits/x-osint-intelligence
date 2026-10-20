@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://x-osint-intelligence.vercel.app/sitemap.xml
